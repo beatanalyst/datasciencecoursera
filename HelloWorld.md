@@ -1,3 +1,3 @@
-datasciencecoursera-helloworld.md
+datasciencecoursera
 ===================
 "## This is a markdown file"
